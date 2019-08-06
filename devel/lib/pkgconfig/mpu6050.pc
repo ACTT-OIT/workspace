@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_auto/devel
+
+Name: mpu6050
+Description: Description of mpu6050
+Version: 1.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_auto/devel/lib 
+Requires: 
